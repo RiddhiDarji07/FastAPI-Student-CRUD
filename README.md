@@ -37,7 +37,7 @@ student-crud/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RiddhiDarji07/FastAPI-Student-CRUD
 ```
 
 ### 2. Open the project folder
